@@ -1,4 +1,4 @@
-# HackerEarth-Machine-Learning-Challenge-Exhibit-Artt-A
+# HackerEarth-Machine-Learning-Challenge-Exhibit-Art
 My solution for this competition. 
 
 My rank was 308 with accuracy of 67.55379%.
